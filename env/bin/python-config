@@ -1,4 +1,4 @@
-#!/home/vishalpolley/Documents/lpr/env/bin/python
+#!/home/vishalpolley/Desktop/lpr/env/bin/python
 
 import sys
 import getopt
